@@ -12,19 +12,15 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<h1>Mini eCommerce com NextJS e Stripe</h1>
+<span>Uma aplicação simples de vendas integrada com Stripe para pagamentos</span>
 
-## Learn More
+<h6>Payment Screen</h6>
+https://user-images.githubusercontent.com/54373473/82507508-d37cb400-9ad8-11ea-9569-6af2ec8b6332.jpg
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3>Ferramentas Utilizadas:</h3>
+<ul>
+  <li>NextJS</li>
+  <li>Stripe</li>
+  <li>Yarn</li>
+</ul>
